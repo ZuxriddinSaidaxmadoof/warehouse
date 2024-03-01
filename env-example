@@ -1,0 +1,4 @@
+PORT=7777
+JWT_SECRET_KEY=OK
+JWT_EXPIRED_IN=1d
+DB_URL=postgres://postgres:justforward@localhost:5433/warehouse-lesson
